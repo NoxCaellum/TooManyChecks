@@ -1,4 +1,5 @@
 🧩 Reverse Engineering Challenge — Anti-Analysis Crackme
+
 This repository contains a reverse engineering challenge designed for people who enjoy binaries that actively fight back.
 
 Your goal is simple:
